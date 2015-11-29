@@ -1,0 +1,22 @@
+{
+	"name": "mpd-data",
+	"main": "mpd-data.js",
+	"version": "0.0.0",
+	"homepage": "https://github.com/mpduffey/master",
+	"authors": [
+		"mpduffey <mpduffey@gmail.com>"
+	],
+	"dependencies": {},
+	"description": "Data Service",
+	"keywords": [
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"assets/vendor",
+		"test",
+		"tests"
+	]
+}
